@@ -5,7 +5,7 @@
 
 > This project is about building My portfolio website.
 > If you want to checkout my Portfolio website kindly click on the following link:
-    HaseebSediqi.github.io
+    http://HaseebSediqi.github.io
 
 ![screenshot](./app_screenshot.png)
 ![screenshot](./ScreenShot-Desktop-Version.png)
